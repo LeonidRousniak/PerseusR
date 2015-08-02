@@ -1,0 +1,9 @@
+Package: PerseusR
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-08-01
+Authors@R: person("Leonid", "Rousniak", email = "leonid.rousniak@epfl.ch", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: MIT + file LICENSE
+LazyData: TRUE
